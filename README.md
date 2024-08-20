@@ -1,4 +1,4 @@
-# Comprehensive Machine Learning Project
+# Machine Learning Project
 
 ## Introduction
 This repository contains a series of machine learning assignments that explore various aspects and techniques of ML. Each assignment focuses on different algorithms and real-world applications, demonstrating the versatility and power of machine learning across different domains.
